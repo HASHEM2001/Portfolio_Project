@@ -1,2 +1,2 @@
 # Portfolio_Project
-this a project data clening and data explonation
+this a project data cleaning and data exploration
